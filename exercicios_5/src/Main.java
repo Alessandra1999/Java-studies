@@ -37,7 +37,7 @@ Entrada:
 161 4 5.20
 Saída:
 VALOR A PAGAR: R$ 51.40
-Entrada: Saída:
+Entrada: 
 1 1 15.10
 2 1 15.10
 Saída:
